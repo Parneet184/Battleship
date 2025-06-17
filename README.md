@@ -59,12 +59,6 @@ A console-based **Battleship Game** created in **C language** during my **1st se
 
 ---
 
-## 📷 Screenshot (Optional)
-
-> You can add a terminal screenshot showing the gameplay if you'd like.
-
----
-
 ## 📝 License
 
 This project is open-source and free to use for educational purposes.
